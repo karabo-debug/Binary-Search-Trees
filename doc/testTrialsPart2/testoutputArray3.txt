@@ -1,0 +1,248 @@
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = <Not Found>, 991 search operations, 991 insert operations
+Germany = <Not Found>, 991 search operations, 991 insert operations
+Democratic Republic of Congo = <Not Found>, 991 search operations, 991 insert operations
+Slovakia = <Not Found>, 991 search operations, 991 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 991 insert operations
+Ecuador = <Not Found>, 991 search operations, 991 insert operations
+Tanzania = <Not Found>, 991 search operations, 991 insert operations
+Yemen = <Not Found>, 991 search operations, 991 insert operations
+Jersey = 426, 394 search operations, 991 insert operations
+Luxembourg = <Not Found>, 991 search operations, 991 insert operations
+Finland = <Not Found>, 991 search operations, 991 insert operations
+Central African Republic = <Not Found>, 991 search operations, 991 insert operations
+Taiwan = <Not Found>, 991 search operations, 991 insert operations
+Libya = <Not Found>, 991 search operations, 991 insert operations
+South Sudan = <Not Found>, 991 search operations, 991 insert operations
+Spain = <Not Found>, 991 search operations, 991 insert operations
+Grenada = <Not Found>, 991 search operations, 991 insert operations
+Papua New Guinea = 577, 518 search operations, 991 insert operations
+Fiji = <Not Found>, 991 search operations, 991 insert operations
+Panama = 23401, 427 search operations, 991 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = <Not Found>, 1982 search operations, 1982 insert operations
+Germany = 623933, 1354 search operations, 1982 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 1982 insert operations
+Slovakia = <Not Found>, 1982 search operations, 1982 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 1982 insert operations
+Ecuador = <Not Found>, 1982 search operations, 1982 insert operations
+Tanzania = <Not Found>, 1982 search operations, 1982 insert operations
+Yemen = <Not Found>, 1982 search operations, 1982 insert operations
+Jersey = 426, 394 search operations, 1982 insert operations
+Luxembourg = <Not Found>, 1982 search operations, 1982 insert operations
+Finland = <Not Found>, 1982 search operations, 1982 insert operations
+Central African Republic = <Not Found>, 1982 search operations, 1982 insert operations
+Taiwan = <Not Found>, 1982 search operations, 1982 insert operations
+Libya = <Not Found>, 1982 search operations, 1982 insert operations
+South Sudan = <Not Found>, 1982 search operations, 1982 insert operations
+Spain = 204594, 1673 search operations, 1982 insert operations
+Grenada = <Not Found>, 1982 search operations, 1982 insert operations
+Papua New Guinea = 577, 518 search operations, 1982 insert operations
+Fiji = <Not Found>, 1982 search operations, 1982 insert operations
+Panama = 23401, 427 search operations, 1982 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = 663710, 2151 search operations, 2973 insert operations
+Germany = 623933, 1354 search operations, 2973 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 2973 insert operations
+Slovakia = <Not Found>, 2973 search operations, 2973 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 2973 insert operations
+Ecuador = <Not Found>, 2973 search operations, 2973 insert operations
+Tanzania = <Not Found>, 2973 search operations, 2973 insert operations
+Yemen = <Not Found>, 2973 search operations, 2973 insert operations
+Jersey = 426, 394 search operations, 2973 insert operations
+Luxembourg = <Not Found>, 2973 search operations, 2973 insert operations
+Finland = <Not Found>, 2973 search operations, 2973 insert operations
+Central African Republic = <Not Found>, 2973 search operations, 2973 insert operations
+Taiwan = <Not Found>, 2973 search operations, 2973 insert operations
+Libya = <Not Found>, 2973 search operations, 2973 insert operations
+South Sudan = <Not Found>, 2973 search operations, 2973 insert operations
+Spain = 204594, 1673 search operations, 2973 insert operations
+Grenada = <Not Found>, 2973 search operations, 2973 insert operations
+Papua New Guinea = 577, 518 search operations, 2973 insert operations
+Fiji = <Not Found>, 2973 search operations, 2973 insert operations
+Panama = 23401, 427 search operations, 2973 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = 663710, 2151 search operations, 3964 insert operations
+Germany = 623933, 1354 search operations, 3964 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 3964 insert operations
+Slovakia = <Not Found>, 3964 search operations, 3964 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 3964 insert operations
+Ecuador = 106618, 3937 search operations, 3964 insert operations
+Tanzania = <Not Found>, 3964 search operations, 3964 insert operations
+Yemen = <Not Found>, 3964 search operations, 3964 insert operations
+Jersey = 426, 394 search operations, 3964 insert operations
+Luxembourg = <Not Found>, 3964 search operations, 3964 insert operations
+Finland = <Not Found>, 3964 search operations, 3964 insert operations
+Central African Republic = <Not Found>, 3964 search operations, 3964 insert operations
+Taiwan = 69074, 3063 search operations, 3964 insert operations
+Libya = <Not Found>, 3964 search operations, 3964 insert operations
+South Sudan = <Not Found>, 3964 search operations, 3964 insert operations
+Spain = 204594, 1673 search operations, 3964 insert operations
+Grenada = <Not Found>, 3964 search operations, 3964 insert operations
+Papua New Guinea = 577, 518 search operations, 3964 insert operations
+Fiji = <Not Found>, 3964 search operations, 3964 insert operations
+Panama = 23401, 427 search operations, 3964 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = 663710, 2151 search operations, 4955 insert operations
+Germany = 623933, 1354 search operations, 4955 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 4955 insert operations
+Slovakia = <Not Found>, 4955 search operations, 4955 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 4955 insert operations
+Ecuador = 106618, 3937 search operations, 4955 insert operations
+Tanzania = 33124, 4706 search operations, 4955 insert operations
+Yemen = <Not Found>, 4955 search operations, 4955 insert operations
+Jersey = 426, 394 search operations, 4955 insert operations
+Luxembourg = 6370, 4020 search operations, 4955 insert operations
+Finland = <Not Found>, 4955 search operations, 4955 insert operations
+Central African Republic = <Not Found>, 4955 search operations, 4955 insert operations
+Taiwan = 69074, 3063 search operations, 4955 insert operations
+Libya = <Not Found>, 4955 search operations, 4955 insert operations
+South Sudan = <Not Found>, 4955 search operations, 4955 insert operations
+Spain = 204594, 1673 search operations, 4955 insert operations
+Grenada = <Not Found>, 4955 search operations, 4955 insert operations
+Papua New Guinea = 577, 518 search operations, 4955 insert operations
+Fiji = <Not Found>, 4955 search operations, 4955 insert operations
+Panama = 23401, 427 search operations, 4955 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = 663710, 2151 search operations, 5946 insert operations
+Germany = 623933, 1354 search operations, 5946 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 5946 insert operations
+Slovakia = 22059, 4971 search operations, 5946 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 5946 insert operations
+Ecuador = 106618, 3937 search operations, 5946 insert operations
+Tanzania = 33124, 4706 search operations, 5946 insert operations
+Yemen = <Not Found>, 5946 search operations, 5946 insert operations
+Jersey = 426, 394 search operations, 5946 insert operations
+Luxembourg = 6370, 4020 search operations, 5946 insert operations
+Finland = <Not Found>, 5946 search operations, 5946 insert operations
+Central African Republic = <Not Found>, 5946 search operations, 5946 insert operations
+Taiwan = 69074, 3063 search operations, 5946 insert operations
+Libya = <Not Found>, 5946 search operations, 5946 insert operations
+South Sudan = 1049, 5051 search operations, 5946 insert operations
+Spain = 204594, 1673 search operations, 5946 insert operations
+Grenada = <Not Found>, 5946 search operations, 5946 insert operations
+Papua New Guinea = 577, 518 search operations, 5946 insert operations
+Fiji = <Not Found>, 5946 search operations, 5946 insert operations
+Panama = 23401, 427 search operations, 5946 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = 663710, 2151 search operations, 6937 insert operations
+Germany = 623933, 1354 search operations, 6937 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 6937 insert operations
+Slovakia = 22059, 4971 search operations, 6937 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 6937 insert operations
+Ecuador = 106618, 3937 search operations, 6937 insert operations
+Tanzania = 33124, 4706 search operations, 6937 insert operations
+Yemen = 1926, 6121 search operations, 6937 insert operations
+Jersey = 426, 394 search operations, 6937 insert operations
+Luxembourg = 6370, 4020 search operations, 6937 insert operations
+Finland = <Not Found>, 6937 search operations, 6937 insert operations
+Central African Republic = 3596, 6383 search operations, 6937 insert operations
+Taiwan = 69074, 3063 search operations, 6937 insert operations
+Libya = <Not Found>, 6937 search operations, 6937 insert operations
+South Sudan = 1049, 5051 search operations, 6937 insert operations
+Spain = 204594, 1673 search operations, 6937 insert operations
+Grenada = <Not Found>, 6937 search operations, 6937 insert operations
+Papua New Guinea = 577, 518 search operations, 6937 insert operations
+Fiji = 312, 6309 search operations, 6937 insert operations
+Panama = 23401, 427 search operations, 6937 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = 663710, 2151 search operations, 7928 insert operations
+Germany = 623933, 1354 search operations, 7928 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 7928 insert operations
+Slovakia = 22059, 4971 search operations, 7928 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 7928 insert operations
+Ecuador = 106618, 3937 search operations, 7928 insert operations
+Tanzania = 33124, 4706 search operations, 7928 insert operations
+Yemen = 1926, 6121 search operations, 7928 insert operations
+Jersey = 426, 394 search operations, 7928 insert operations
+Luxembourg = 6370, 4020 search operations, 7928 insert operations
+Finland = <Not Found>, 7928 search operations, 7928 insert operations
+Central African Republic = 3596, 6383 search operations, 7928 insert operations
+Taiwan = 69074, 3063 search operations, 7928 insert operations
+Libya = 19020, 7648 search operations, 7928 insert operations
+South Sudan = 1049, 5051 search operations, 7928 insert operations
+Spain = 204594, 1673 search operations, 7928 insert operations
+Grenada = <Not Found>, 7928 search operations, 7928 insert operations
+Papua New Guinea = 577, 518 search operations, 7928 insert operations
+Fiji = 312, 6309 search operations, 7928 insert operations
+Panama = 23401, 427 search operations, 7928 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = 663710, 2151 search operations, 8919 insert operations
+Germany = 623933, 1354 search operations, 8919 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 8919 insert operations
+Slovakia = 22059, 4971 search operations, 8919 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 8919 insert operations
+Ecuador = 106618, 3937 search operations, 8919 insert operations
+Tanzania = 33124, 4706 search operations, 8919 insert operations
+Yemen = 1926, 6121 search operations, 8919 insert operations
+Jersey = 426, 394 search operations, 8919 insert operations
+Luxembourg = 6370, 4020 search operations, 8919 insert operations
+Finland = <Not Found>, 8919 search operations, 8919 insert operations
+Central African Republic = 3596, 6383 search operations, 8919 insert operations
+Taiwan = 69074, 3063 search operations, 8919 insert operations
+Libya = 19020, 7648 search operations, 8919 insert operations
+South Sudan = 1049, 5051 search operations, 8919 insert operations
+Spain = 204594, 1673 search operations, 8919 insert operations
+Grenada = 184, 8742 search operations, 8919 insert operations
+Papua New Guinea = 577, 518 search operations, 8919 insert operations
+Fiji = 312, 6309 search operations, 8919 insert operations
+Panama = 23401, 427 search operations, 8919 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Pakistan = 663710, 2151 search operations, 9910 insert operations
+Germany = 623933, 1354 search operations, 9910 insert operations
+Democratic Republic of Congo = 5760, 1533 search operations, 9910 insert operations
+Slovakia = 22059, 4971 search operations, 9910 insert operations
+Turks and Caicos Islands = 122, 697 search operations, 9910 insert operations
+Ecuador = 106618, 3937 search operations, 9910 insert operations
+Tanzania = 33124, 4706 search operations, 9910 insert operations
+Yemen = 1926, 6121 search operations, 9910 insert operations
+Jersey = 426, 394 search operations, 9910 insert operations
+Luxembourg = 6370, 4020 search operations, 9910 insert operations
+Finland = 72110, 9577 search operations, 9910 insert operations
+Central African Republic = 3596, 6383 search operations, 9910 insert operations
+Taiwan = 69074, 3063 search operations, 9910 insert operations
+Libya = 19020, 7648 search operations, 9910 insert operations
+South Sudan = 1049, 5051 search operations, 9910 insert operations
+Spain = 204594, 1673 search operations, 9910 insert operations
+Grenada = 184, 8742 search operations, 9910 insert operations
+Papua New Guinea = 577, 518 search operations, 9910 insert operations
+Fiji = 312, 6309 search operations, 9910 insert operations
+Panama = 23401, 427 search operations, 9910 insert operations

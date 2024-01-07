@@ -1,0 +1,153 @@
+// when n = 991
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 991 insert operations
+Guyana = <Not found>, 12 search operations, 991 insert operations
+Ghana = <Not found>, 14 search operations, 991 insert operations
+Lower middle income = <Not found>, 19 search operations, 991 insert operations
+Suriname = <Not found>, 14 search operations, 991 insert operations
+Iceland = <Not found>, 12 search operations, 991 insert operations
+Russia = <Not found>, 14 search operations, 991 insert operations
+Costa Rica = <Not found>, 10 search operations, 991 insert operations
+San Marino = <Not found>, 14 search operations, 991 insert operations
+Germany = <Not found>, 14 search operations, 991 insert operations
+
+// when n = 1982
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 1982 insert operations
+Guyana = <Not found>, 13 search operations, 1982 insert operations
+Ghana = <Not found>, 16 search operations, 1982 insert operations
+Lower middle income = 9782096, 40 search operations, 1982 insert operations
+Suriname = 161, 30 search operations, 1982 insert operations
+Iceland = <Not found>, 15 search operations, 1982 insert operations
+Russia = <Not found>, 15 search operations, 1982 insert operations
+Costa Rica = <Not found>, 12 search operations, 1982 insert operations
+San Marino = 72, 36 search operations, 1982 insert operations
+Germany = <Not found>, 16 search operations, 1982 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 2973 insert operations
+Guyana = <Not found>, 13 search operations, 2973 insert operations
+Ghana = <Not found>, 16 search operations, 2973 insert operations
+Lower middle income = 9782096, 40 search operations, 2973 insert operations
+Suriname = 161, 30 search operations, 2973 insert operations
+Iceland = <Not found>, 17 search operations, 2973 insert operations
+Russia = <Not found>, 16 search operations, 2973 insert operations
+Costa Rica = <Not found>, 14 search operations, 2973 insert operations
+San Marino = 72, 36 search operations, 2973 insert operations
+Germany = 249507, 34 search operations, 2973 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 3964 insert operations
+Guyana = <Not found>, 13 search operations, 3964 insert operations
+Ghana = 84487, 34 search operations, 3964 insert operations
+Lower middle income = 9782096, 40 search operations, 3964 insert operations
+Suriname = 161, 30 search operations, 3964 insert operations
+Iceland = 2022, 36 search operations, 3964 insert operations
+Russia = <Not found>, 18 search operations, 3964 insert operations
+Costa Rica = <Not found>, 15 search operations, 3964 insert operations
+San Marino = 72, 36 search operations, 3964 insert operations
+Germany = 249507, 34 search operations, 3964 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 4955 insert operations
+Guyana = <Not found>, 15 search operations, 4955 insert operations
+Ghana = 84487, 34 search operations, 4955 insert operations
+Lower middle income = 9782096, 40 search operations, 4955 insert operations
+Suriname = 161, 30 search operations, 4955 insert operations
+Iceland = 2022, 36 search operations, 4955 insert operations
+Russia = <Not found>, 19 search operations, 4955 insert operations
+Costa Rica = <Not found>, 16 search operations, 4955 insert operations
+San Marino = 72, 36 search operations, 4955 insert operations
+Germany = 249507, 34 search operations, 4955 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 5946 insert operations
+Guyana = <Not found>, 15 search operations, 5946 insert operations
+Ghana = 84487, 34 search operations, 5946 insert operations
+Lower middle income = 9782096, 40 search operations, 5946 insert operations
+Suriname = 161, 30 search operations, 5946 insert operations
+Iceland = 2022, 36 search operations, 5946 insert operations
+Russia = <Not found>, 19 search operations, 5946 insert operations
+Costa Rica = <Not found>, 16 search operations, 5946 insert operations
+San Marino = 72, 36 search operations, 5946 insert operations
+Germany = 249507, 34 search operations, 5946 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 6937 insert operations
+Guyana = <Not found>, 16 search operations, 6937 insert operations
+Ghana = 84487, 34 search operations, 6937 insert operations
+Lower middle income = 9782096, 40 search operations, 6937 insert operations
+Suriname = 161, 30 search operations, 6937 insert operations
+Iceland = 2022, 36 search operations, 6937 insert operations
+Russia = <Not found>, 19 search operations, 6937 insert operations
+Costa Rica = <Not found>, 16 search operations, 6937 insert operations
+San Marino = 72, 36 search operations, 6937 insert operations
+Germany = 249507, 34 search operations, 6937 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 7928 insert operations
+Guyana = <Not found>, 17 search operations, 7928 insert operations
+Ghana = 84487, 34 search operations, 7928 insert operations
+Lower middle income = 9782096, 40 search operations, 7928 insert operations
+Suriname = 161, 30 search operations, 7928 insert operations
+Iceland = 2022, 36 search operations, 7928 insert operations
+Russia = 283575, 40 search operations, 7928 insert operations
+Costa Rica = <Not found>, 16 search operations, 7928 insert operations
+San Marino = 72, 36 search operations, 7928 insert operations
+Germany = 249507, 34 search operations, 7928 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 8919 insert operations
+Guyana = 1620, 36 search operations, 8919 insert operations
+Ghana = 84487, 34 search operations, 8919 insert operations
+Lower middle income = 9782096, 40 search operations, 8919 insert operations
+Suriname = 161, 30 search operations, 8919 insert operations
+Iceland = 2022, 36 search operations, 8919 insert operations
+Russia = 283575, 40 search operations, 8919 insert operations
+Costa Rica = 14360, 34 search operations, 8919 insert operations
+San Marino = 72, 36 search operations, 8919 insert operations
+Germany = 249507, 34 search operations, 8919 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Taiwan = 35525, 18 search operations, 9910 insert operations
+Guyana = 1620, 36 search operations, 9910 insert operations
+Ghana = 84487, 34 search operations, 9910 insert operations
+Lower middle income = 9782096, 40 search operations, 9910 insert operations
+Suriname = 161, 30 search operations, 9910 insert operations
+Iceland = 2022, 36 search operations, 9910 insert operations
+Russia = 283575, 40 search operations, 9910 insert operations
+Costa Rica = 14360, 34 search operations, 9910 insert operations
+San Marino = 72, 36 search operations, 9910 insert operations
+Germany = 249507, 34 search operations, 9910 insert operations
+
+

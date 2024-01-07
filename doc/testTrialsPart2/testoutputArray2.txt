@@ -1,0 +1,198 @@
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = <Not Found>, 991 search operations, 991 insert operations
+South Sudan = <Not Found>, 991 search operations, 991 insert operations
+French Polynesia = <Not Found>, 991 search operations, 991 insert operations
+Saint Lucia = <Not Found>, 991 search operations, 991 insert operations
+Panama = <Not Found>, 991 search operations, 991 insert operations
+Upper middle income = <Not Found>, 991 search operations, 991 insert operations
+Central African Republic = <Not Found>, 991 search operations, 991 insert operations
+Bermuda = <Not Found>, 991 search operations, 991 insert operations
+Qatar = <Not Found>, 991 search operations, 991 insert operations
+South Korea = <Not Found>, 991 search operations, 991 insert operations
+Ghana = <Not Found>, 991 search operations, 991 insert operations
+Turks and Caicos Islands = <Not Found>, 991 search operations, 991 insert operations
+United States = <Not Found>, 991 search operations, 991 insert operations
+Maldives = <Not Found>, 991 search operations, 991 insert operations
+Italy = <Not Found>, 991 search operations, 991 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = <Not Found>, 1982 search operations, 1982 insert operations
+South Sudan = <Not Found>, 1982 search operations, 1982 insert operations
+French Polynesia = <Not Found>, 1982 search operations, 1982 insert operations
+Saint Lucia = <Not Found>, 1982 search operations, 1982 insert operations
+Panama = <Not Found>, 1982 search operations, 1982 insert operations
+Upper middle income = <Not Found>, 1982 search operations, 1982 insert operations
+Central African Republic = <Not Found>, 1982 search operations, 1982 insert operations
+Bermuda = <Not Found>, 1982 search operations, 1982 insert operations
+Qatar = <Not Found>, 1982 search operations, 1982 insert operations
+South Korea = <Not Found>, 1982 search operations, 1982 insert operations
+Ghana = <Not Found>, 1982 search operations, 1982 insert operations
+Turks and Caicos Islands = <Not Found>, 1982 search operations, 1982 insert operations
+United States = <Not Found>, 1982 search operations, 1982 insert operations
+Maldives = <Not Found>, 1982 search operations, 1982 insert operations
+Italy = <Not Found>, 1982 search operations, 1982 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = <Not Found>, 2973 search operations, 2973 insert operations
+South Sudan = <Not Found>, 2973 search operations, 2973 insert operations
+French Polynesia = <Not Found>, 2973 search operations, 2973 insert operations
+Saint Lucia = 58, 2101 search operations, 2973 insert operations
+Panama = <Not Found>, 2973 search operations, 2973 insert operations
+Upper middle income = <Not Found>, 2973 search operations, 2973 insert operations
+Central African Republic = <Not Found>, 2973 search operations, 2973 insert operations
+Bermuda = <Not Found>, 2973 search operations, 2973 insert operations
+Qatar = <Not Found>, 2973 search operations, 2973 insert operations
+South Korea = <Not Found>, 2973 search operations, 2973 insert operations
+Ghana = <Not Found>, 2973 search operations, 2973 insert operations
+Turks and Caicos Islands = <Not Found>, 2973 search operations, 2973 insert operations
+United States = <Not Found>, 2973 search operations, 2973 insert operations
+Maldives = <Not Found>, 2973 search operations, 2973 insert operations
+Italy = <Not Found>, 2973 search operations, 2973 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = <Not Found>, 3964 search operations, 3964 insert operations
+South Sudan = <Not Found>, 3964 search operations, 3964 insert operations
+French Polynesia = <Not Found>, 3964 search operations, 3964 insert operations
+Saint Lucia = 58, 2101 search operations, 3964 insert operations
+Panama = <Not Found>, 3964 search operations, 3964 insert operations
+Upper middle income = <Not Found>, 3964 search operations, 3964 insert operations
+Central African Republic = <Not Found>, 3964 search operations, 3964 insert operations
+Bermuda = <Not Found>, 3964 search operations, 3964 insert operations
+Qatar = <Not Found>, 3964 search operations, 3964 insert operations
+South Korea = <Not Found>, 3964 search operations, 3964 insert operations
+Ghana = <Not Found>, 3964 search operations, 3964 insert operations
+Turks and Caicos Islands = <Not Found>, 3964 search operations, 3964 insert operations
+United States = <Not Found>, 3964 search operations, 3964 insert operations
+Maldives = <Not Found>, 3964 search operations, 3964 insert operations
+Italy = <Not Found>, 3964 search operations, 3964 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = <Not Found>, 4955 search operations, 4955 insert operations
+South Sudan = <Not Found>, 4955 search operations, 4955 insert operations
+French Polynesia = <Not Found>, 4955 search operations, 4955 insert operations
+Saint Lucia = 58, 2101 search operations, 4955 insert operations
+Panama = <Not Found>, 4955 search operations, 4955 insert operations
+Upper middle income = 9925381, 4219 search operations, 4955 insert operations
+Central African Republic = <Not Found>, 4955 search operations, 4955 insert operations
+Bermuda = <Not Found>, 4955 search operations, 4955 insert operations
+Qatar = <Not Found>, 4955 search operations, 4955 insert operations
+South Korea = <Not Found>, 4955 search operations, 4955 insert operations
+Ghana = <Not Found>, 4955 search operations, 4955 insert operations
+Turks and Caicos Islands = <Not Found>, 4955 search operations, 4955 insert operations
+United States = <Not Found>, 4955 search operations, 4955 insert operations
+Maldives = <Not Found>, 4955 search operations, 4955 insert operations
+Italy = <Not Found>, 4955 search operations, 4955 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = <Not Found>, 5946 search operations, 5946 insert operations
+South Sudan = 2910, 5081 search operations, 5946 insert operations
+French Polynesia = 217, 5444 search operations, 5946 insert operations
+Saint Lucia = 58, 2101 search operations, 5946 insert operations
+Panama = <Not Found>, 5946 search operations, 5946 insert operations
+Upper middle income = 9925381, 4219 search operations, 5946 insert operations
+Central African Republic = 4817, 5253 search operations, 5946 insert operations
+Bermuda = <Not Found>, 5946 search operations, 5946 insert operations
+Qatar = <Not Found>, 5946 search operations, 5946 insert operations
+South Korea = <Not Found>, 5946 search operations, 5946 insert operations
+Ghana = <Not Found>, 5946 search operations, 5946 insert operations
+Turks and Caicos Islands = <Not Found>, 5946 search operations, 5946 insert operations
+United States = <Not Found>, 5946 search operations, 5946 insert operations
+Maldives = <Not Found>, 5946 search operations, 5946 insert operations
+Italy = 506132, 5380 search operations, 5946 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = 6893, 6346 search operations, 6937 insert operations
+South Sudan = 2910, 5081 search operations, 6937 insert operations
+French Polynesia = 217, 5444 search operations, 6937 insert operations
+Saint Lucia = 58, 2101 search operations, 6937 insert operations
+Panama = 17646, 6502 search operations, 6937 insert operations
+Upper middle income = 9925381, 4219 search operations, 6937 insert operations
+Central African Republic = 4817, 5253 search operations, 6937 insert operations
+Bermuda = 493, 6370 search operations, 6937 insert operations
+Qatar = <Not Found>, 6937 search operations, 6937 insert operations
+South Korea = <Not Found>, 6937 search operations, 6937 insert operations
+Ghana = <Not Found>, 6937 search operations, 6937 insert operations
+Turks and Caicos Islands = <Not Found>, 6937 search operations, 6937 insert operations
+United States = 672178, 6373 search operations, 6937 insert operations
+Maldives = <Not Found>, 6937 search operations, 6937 insert operations
+Italy = 506132, 5380 search operations, 6937 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = 6893, 6346 search operations, 7928 insert operations
+South Sudan = 2910, 5081 search operations, 7928 insert operations
+French Polynesia = 217, 5444 search operations, 7928 insert operations
+Saint Lucia = 58, 2101 search operations, 7928 insert operations
+Panama = 17646, 6502 search operations, 7928 insert operations
+Upper middle income = 9925381, 4219 search operations, 7928 insert operations
+Central African Republic = 4817, 5253 search operations, 7928 insert operations
+Bermuda = 493, 6370 search operations, 7928 insert operations
+Qatar = <Not Found>, 7928 search operations, 7928 insert operations
+South Korea = <Not Found>, 7928 search operations, 7928 insert operations
+Ghana = <Not Found>, 7928 search operations, 7928 insert operations
+Turks and Caicos Islands = 122, 7747 search operations, 7928 insert operations
+United States = 672178, 6373 search operations, 7928 insert operations
+Maldives = 3122, 7345 search operations, 7928 insert operations
+Italy = 506132, 5380 search operations, 7928 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = 6893, 6346 search operations, 8919 insert operations
+South Sudan = 2910, 5081 search operations, 8919 insert operations
+French Polynesia = 217, 5444 search operations, 8919 insert operations
+Saint Lucia = 58, 2101 search operations, 8919 insert operations
+Panama = 17646, 6502 search operations, 8919 insert operations
+Upper middle income = 9925381, 4219 search operations, 8919 insert operations
+Central African Republic = 4817, 5253 search operations, 8919 insert operations
+Bermuda = 493, 6370 search operations, 8919 insert operations
+Qatar = <Not Found>, 8919 search operations, 8919 insert operations
+South Korea = <Not Found>, 8919 search operations, 8919 insert operations
+Ghana = 84487, 8222 search operations, 8919 insert operations
+Turks and Caicos Islands = 122, 7747 search operations, 8919 insert operations
+United States = 672178, 6373 search operations, 8919 insert operations
+Maldives = 3122, 7345 search operations, 8919 insert operations
+Italy = 506132, 5380 search operations, 8919 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Georgia = 6893, 6346 search operations, 9910 insert operations
+South Sudan = 2910, 5081 search operations, 9910 insert operations
+French Polynesia = 217, 5444 search operations, 9910 insert operations
+Saint Lucia = 58, 2101 search operations, 9910 insert operations
+Panama = 17646, 6502 search operations, 9910 insert operations
+Upper middle income = 9925381, 4219 search operations, 9910 insert operations
+Central African Republic = 4817, 5253 search operations, 9910 insert operations
+Bermuda = 493, 6370 search operations, 9910 insert operations
+Qatar = 26883, 9902 search operations, 9910 insert operations
+South Korea = 316722, 9865 search operations, 9910 insert operations
+Ghana = 84487, 8222 search operations, 9910 insert operations
+Turks and Caicos Islands = 122, 7747 search operations, 9910 insert operations
+United States = 672178, 6373 search operations, 9910 insert operations
+Maldives = 3122, 7345 search operations, 9910 insert operations
+Italy = 506132, 5380 search operations, 9910 insert operations

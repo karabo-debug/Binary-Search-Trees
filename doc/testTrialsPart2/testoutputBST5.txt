@@ -1,0 +1,348 @@
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = <Not found>, 18 search operations, 991 insert operations
+Romania = <Not found>, 14 search operations, 991 insert operations
+Trinidad and Tobago = <Not found>, 11 search operations, 991 insert operations
+Iran = <Not found>, 13 search operations, 991 insert operations
+Nicaragua = <Not found>, 20 search operations, 991 insert operations
+Guernsey = 65, 26 search operations, 991 insert operations
+Ireland = <Not found>, 15 search operations, 991 insert operations
+Germany = <Not found>, 14 search operations, 991 insert operations
+Liechtenstein = <Not found>, 20 search operations, 991 insert operations
+Guernsey = 65, 26 search operations, 991 insert operations
+Trinidad and Tobago = <Not found>, 11 search operations, 991 insert operations
+Europe = <Not found>, 8 search operations, 991 insert operations
+Armenia = <Not found>, 11 search operations, 991 insert operations
+High income = <Not found>, 15 search operations, 991 insert operations
+Malta = 1764, 38 search operations, 991 insert operations
+South America = 2833576, 16 search operations, 991 insert operations
+Scotland = <Not found>, 14 search operations, 991 insert operations
+Madagascar = <Not found>, 18 search operations, 991 insert operations
+Portugal = <Not found>, 13 search operations, 991 insert operations
+Czechia = <Not found>, 10 search operations, 991 insert operations
+Spain = <Not found>, 13 search operations, 991 insert operations
+Portugal = <Not found>, 13 search operations, 991 insert operations
+Madagascar = <Not found>, 18 search operations, 991 insert operations
+Denmark = <Not found>, 12 search operations, 991 insert operations
+Norway = <Not found>, 18 search operations, 991 insert operations
+Djibouti = <Not found>, 9 search operations, 991 insert operations
+Uruguay = <Not found>, 10 search operations, 991 insert operations
+Uruguay = <Not found>, 10 search operations, 991 insert operations
+Kenya = <Not found>, 18 search operations, 991 insert operations
+Pakistan = <Not found>, 12 search operations, 991 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 1982 insert operations
+Romania = 17672, 30 search operations, 1982 insert operations
+Trinidad and Tobago = <Not found>, 14 search operations, 1982 insert operations
+Iran = <Not found>, 14 search operations, 1982 insert operations
+Nicaragua = <Not found>, 24 search operations, 1982 insert operations
+Guernsey = 65, 26 search operations, 1982 insert operations
+Ireland = <Not found>, 17 search operations, 1982 insert operations
+Germany = <Not found>, 16 search operations, 1982 insert operations
+Liechtenstein = <Not found>, 24 search operations, 1982 insert operations
+Guernsey = 65, 26 search operations, 1982 insert operations
+Trinidad and Tobago = <Not found>, 14 search operations, 1982 insert operations
+Europe = <Not found>, 8 search operations, 1982 insert operations
+Armenia = <Not found>, 12 search operations, 1982 insert operations
+High income = <Not found>, 19 search operations, 1982 insert operations
+Malta = 1764, 38 search operations, 1982 insert operations
+South America = 2833576, 16 search operations, 1982 insert operations
+Scotland = <Not found>, 16 search operations, 1982 insert operations
+Madagascar = <Not found>, 19 search operations, 1982 insert operations
+Portugal = <Not found>, 17 search operations, 1982 insert operations
+Czechia = <Not found>, 11 search operations, 1982 insert operations
+Spain = <Not found>, 16 search operations, 1982 insert operations
+Portugal = <Not found>, 17 search operations, 1982 insert operations
+Madagascar = <Not found>, 19 search operations, 1982 insert operations
+Denmark = <Not found>, 13 search operations, 1982 insert operations
+Norway = <Not found>, 22 search operations, 1982 insert operations
+Djibouti = <Not found>, 9 search operations, 1982 insert operations
+Uruguay = <Not found>, 10 search operations, 1982 insert operations
+Uruguay = <Not found>, 10 search operations, 1982 insert operations
+Kenya = <Not found>, 18 search operations, 1982 insert operations
+Pakistan = <Not found>, 13 search operations, 1982 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 2973 insert operations
+Romania = 17672, 30 search operations, 2973 insert operations
+Trinidad and Tobago = <Not found>, 14 search operations, 2973 insert operations
+Iran = <Not found>, 14 search operations, 2973 insert operations
+Nicaragua = <Not found>, 24 search operations, 2973 insert operations
+Guernsey = 65, 26 search operations, 2973 insert operations
+Ireland = <Not found>, 17 search operations, 2973 insert operations
+Germany = 300683, 36 search operations, 2973 insert operations
+Liechtenstein = <Not found>, 25 search operations, 2973 insert operations
+Guernsey = 65, 26 search operations, 2973 insert operations
+Trinidad and Tobago = <Not found>, 14 search operations, 2973 insert operations
+Europe = <Not found>, 9 search operations, 2973 insert operations
+Armenia = <Not found>, 13 search operations, 2973 insert operations
+High income = <Not found>, 19 search operations, 2973 insert operations
+Malta = 1764, 38 search operations, 2973 insert operations
+South America = 2833576, 16 search operations, 2973 insert operations
+Scotland = <Not found>, 17 search operations, 2973 insert operations
+Madagascar = 5727, 42 search operations, 2973 insert operations
+Portugal = <Not found>, 18 search operations, 2973 insert operations
+Czechia = <Not found>, 11 search operations, 2973 insert operations
+Spain = <Not found>, 16 search operations, 2973 insert operations
+Portugal = <Not found>, 18 search operations, 2973 insert operations
+Madagascar = 5727, 42 search operations, 2973 insert operations
+Denmark = <Not found>, 14 search operations, 2973 insert operations
+Norway = <Not found>, 23 search operations, 2973 insert operations
+Djibouti = <Not found>, 12 search operations, 2973 insert operations
+Uruguay = <Not found>, 12 search operations, 2973 insert operations
+Uruguay = <Not found>, 12 search operations, 2973 insert operations
+Kenya = <Not found>, 18 search operations, 2973 insert operations
+Pakistan = <Not found>, 15 search operations, 2973 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 3964 insert operations
+Romania = 17672, 30 search operations, 3964 insert operations
+Trinidad and Tobago = <Not found>, 14 search operations, 3964 insert operations
+Iran = <Not found>, 15 search operations, 3964 insert operations
+Nicaragua = 31693, 50 search operations, 3964 insert operations
+Guernsey = 65, 26 search operations, 3964 insert operations
+Ireland = <Not found>, 18 search operations, 3964 insert operations
+Germany = 300683, 36 search operations, 3964 insert operations
+Liechtenstein = <Not found>, 27 search operations, 3964 insert operations
+Guernsey = 65, 26 search operations, 3964 insert operations
+Trinidad and Tobago = <Not found>, 14 search operations, 3964 insert operations
+Europe = <Not found>, 9 search operations, 3964 insert operations
+Armenia = <Not found>, 14 search operations, 3964 insert operations
+High income = 4001294, 42 search operations, 3964 insert operations
+Malta = 1764, 38 search operations, 3964 insert operations
+South America = 2833576, 16 search operations, 3964 insert operations
+Scotland = <Not found>, 17 search operations, 3964 insert operations
+Madagascar = 5727, 42 search operations, 3964 insert operations
+Portugal = <Not found>, 19 search operations, 3964 insert operations
+Czechia = <Not found>, 12 search operations, 3964 insert operations
+Spain = <Not found>, 16 search operations, 3964 insert operations
+Portugal = <Not found>, 19 search operations, 3964 insert operations
+Madagascar = 5727, 42 search operations, 3964 insert operations
+Denmark = <Not found>, 16 search operations, 3964 insert operations
+Norway = <Not found>, 23 search operations, 3964 insert operations
+Djibouti = <Not found>, 12 search operations, 3964 insert operations
+Uruguay = <Not found>, 12 search operations, 3964 insert operations
+Uruguay = <Not found>, 12 search operations, 3964 insert operations
+Kenya = <Not found>, 18 search operations, 3964 insert operations
+Pakistan = <Not found>, 16 search operations, 3964 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 4955 insert operations
+Romania = 17672, 30 search operations, 4955 insert operations
+Trinidad and Tobago = <Not found>, 14 search operations, 4955 insert operations
+Iran = <Not found>, 16 search operations, 4955 insert operations
+Nicaragua = 31693, 50 search operations, 4955 insert operations
+Guernsey = 65, 26 search operations, 4955 insert operations
+Ireland = <Not found>, 20 search operations, 4955 insert operations
+Germany = 300683, 36 search operations, 4955 insert operations
+Liechtenstein = <Not found>, 27 search operations, 4955 insert operations
+Guernsey = 65, 26 search operations, 4955 insert operations
+Trinidad and Tobago = <Not found>, 14 search operations, 4955 insert operations
+Europe = <Not found>, 11 search operations, 4955 insert operations
+Armenia = <Not found>, 14 search operations, 4955 insert operations
+High income = 4001294, 42 search operations, 4955 insert operations
+Malta = 1764, 38 search operations, 4955 insert operations
+South America = 2833576, 16 search operations, 4955 insert operations
+Scotland = <Not found>, 17 search operations, 4955 insert operations
+Madagascar = 5727, 42 search operations, 4955 insert operations
+Portugal = <Not found>, 19 search operations, 4955 insert operations
+Czechia = <Not found>, 12 search operations, 4955 insert operations
+Spain = <Not found>, 16 search operations, 4955 insert operations
+Portugal = <Not found>, 19 search operations, 4955 insert operations
+Madagascar = 5727, 42 search operations, 4955 insert operations
+Denmark = <Not found>, 16 search operations, 4955 insert operations
+Norway = <Not found>, 23 search operations, 4955 insert operations
+Djibouti = <Not found>, 12 search operations, 4955 insert operations
+Uruguay = <Not found>, 13 search operations, 4955 insert operations
+Uruguay = <Not found>, 13 search operations, 4955 insert operations
+Kenya = <Not found>, 19 search operations, 4955 insert operations
+Pakistan = <Not found>, 18 search operations, 4955 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 5946 insert operations
+Romania = 17672, 30 search operations, 5946 insert operations
+Trinidad and Tobago = <Not found>, 15 search operations, 5946 insert operations
+Iran = <Not found>, 16 search operations, 5946 insert operations
+Nicaragua = 31693, 50 search operations, 5946 insert operations
+Guernsey = 65, 26 search operations, 5946 insert operations
+Ireland = <Not found>, 20 search operations, 5946 insert operations
+Germany = 300683, 36 search operations, 5946 insert operations
+Liechtenstein = <Not found>, 27 search operations, 5946 insert operations
+Guernsey = 65, 26 search operations, 5946 insert operations
+Trinidad and Tobago = <Not found>, 15 search operations, 5946 insert operations
+Europe = <Not found>, 11 search operations, 5946 insert operations
+Armenia = <Not found>, 14 search operations, 5946 insert operations
+High income = 4001294, 42 search operations, 5946 insert operations
+Malta = 1764, 38 search operations, 5946 insert operations
+South America = 2833576, 16 search operations, 5946 insert operations
+Scotland = 7981, 36 search operations, 5946 insert operations
+Madagascar = 5727, 42 search operations, 5946 insert operations
+Portugal = <Not found>, 19 search operations, 5946 insert operations
+Czechia = 27895, 26 search operations, 5946 insert operations
+Spain = <Not found>, 17 search operations, 5946 insert operations
+Portugal = <Not found>, 19 search operations, 5946 insert operations
+Madagascar = 5727, 42 search operations, 5946 insert operations
+Denmark = <Not found>, 18 search operations, 5946 insert operations
+Norway = <Not found>, 24 search operations, 5946 insert operations
+Djibouti = <Not found>, 13 search operations, 5946 insert operations
+Uruguay = <Not found>, 13 search operations, 5946 insert operations
+Uruguay = <Not found>, 13 search operations, 5946 insert operations
+Kenya = <Not found>, 19 search operations, 5946 insert operations
+Pakistan = <Not found>, 18 search operations, 5946 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 6937 insert operations
+Romania = 17672, 30 search operations, 6937 insert operations
+Trinidad and Tobago = <Not found>, 15 search operations, 6937 insert operations
+Iran = <Not found>, 17 search operations, 6937 insert operations
+Nicaragua = 31693, 50 search operations, 6937 insert operations
+Guernsey = 65, 26 search operations, 6937 insert operations
+Ireland = <Not found>, 20 search operations, 6937 insert operations
+Germany = 300683, 36 search operations, 6937 insert operations
+Liechtenstein = <Not found>, 27 search operations, 6937 insert operations
+Guernsey = 65, 26 search operations, 6937 insert operations
+Trinidad and Tobago = <Not found>, 15 search operations, 6937 insert operations
+Europe = 2338363, 24 search operations, 6937 insert operations
+Armenia = 7547, 30 search operations, 6937 insert operations
+High income = 4001294, 42 search operations, 6937 insert operations
+Malta = 1764, 38 search operations, 6937 insert operations
+South America = 2833576, 16 search operations, 6937 insert operations
+Scotland = 7981, 36 search operations, 6937 insert operations
+Madagascar = 5727, 42 search operations, 6937 insert operations
+Portugal = <Not found>, 19 search operations, 6937 insert operations
+Czechia = 27895, 26 search operations, 6937 insert operations
+Spain = <Not found>, 17 search operations, 6937 insert operations
+Portugal = <Not found>, 19 search operations, 6937 insert operations
+Madagascar = 5727, 42 search operations, 6937 insert operations
+Denmark = <Not found>, 19 search operations, 6937 insert operations
+Norway = 20959, 50 search operations, 6937 insert operations
+Djibouti = 325, 30 search operations, 6937 insert operations
+Uruguay = <Not found>, 13 search operations, 6937 insert operations
+Uruguay = <Not found>, 13 search operations, 6937 insert operations
+Kenya = <Not found>, 19 search operations, 6937 insert operations
+Pakistan = <Not found>, 18 search operations, 6937 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 7928 insert operations
+Romania = 17672, 30 search operations, 7928 insert operations
+Trinidad and Tobago = <Not found>, 15 search operations, 7928 insert operations
+Iran = <Not found>, 17 search operations, 7928 insert operations
+Nicaragua = 31693, 50 search operations, 7928 insert operations
+Guernsey = 65, 26 search operations, 7928 insert operations
+Ireland = <Not found>, 20 search operations, 7928 insert operations
+Germany = 300683, 36 search operations, 7928 insert operations
+Liechtenstein = <Not found>, 28 search operations, 7928 insert operations
+Guernsey = 65, 26 search operations, 7928 insert operations
+Trinidad and Tobago = <Not found>, 15 search operations, 7928 insert operations
+Europe = 2338363, 24 search operations, 7928 insert operations
+Armenia = 7547, 30 search operations, 7928 insert operations
+High income = 4001294, 42 search operations, 7928 insert operations
+Malta = 1764, 38 search operations, 7928 insert operations
+South America = 2833576, 16 search operations, 7928 insert operations
+Scotland = 7981, 36 search operations, 7928 insert operations
+Madagascar = 5727, 42 search operations, 7928 insert operations
+Portugal = 77120, 40 search operations, 7928 insert operations
+Czechia = 27895, 26 search operations, 7928 insert operations
+Spain = <Not found>, 17 search operations, 7928 insert operations
+Portugal = 77120, 40 search operations, 7928 insert operations
+Madagascar = 5727, 42 search operations, 7928 insert operations
+Denmark = <Not found>, 19 search operations, 7928 insert operations
+Norway = 20959, 50 search operations, 7928 insert operations
+Djibouti = 325, 30 search operations, 7928 insert operations
+Uruguay = <Not found>, 13 search operations, 7928 insert operations
+Uruguay = <Not found>, 13 search operations, 7928 insert operations
+Kenya = <Not found>, 19 search operations, 7928 insert operations
+Pakistan = <Not found>, 20 search operations, 7928 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 8919 insert operations
+Romania = 17672, 30 search operations, 8919 insert operations
+Trinidad and Tobago = 1840, 32 search operations, 8919 insert operations
+Iran = 490461, 36 search operations, 8919 insert operations
+Nicaragua = 31693, 50 search operations, 8919 insert operations
+Guernsey = 65, 26 search operations, 8919 insert operations
+Ireland = 8881, 44 search operations, 8919 insert operations
+Germany = 300683, 36 search operations, 8919 insert operations
+Liechtenstein = <Not found>, 28 search operations, 8919 insert operations
+Guernsey = 65, 26 search operations, 8919 insert operations
+Trinidad and Tobago = 1840, 32 search operations, 8919 insert operations
+Europe = 2338363, 24 search operations, 8919 insert operations
+Armenia = 7547, 30 search operations, 8919 insert operations
+High income = 4001294, 42 search operations, 8919 insert operations
+Malta = 1764, 38 search operations, 8919 insert operations
+South America = 2833576, 16 search operations, 8919 insert operations
+Scotland = 7981, 36 search operations, 8919 insert operations
+Madagascar = 5727, 42 search operations, 8919 insert operations
+Portugal = 77120, 40 search operations, 8919 insert operations
+Czechia = 27895, 26 search operations, 8919 insert operations
+Spain = 154946, 36 search operations, 8919 insert operations
+Portugal = 77120, 40 search operations, 8919 insert operations
+Madagascar = 5727, 42 search operations, 8919 insert operations
+Denmark = 8631, 40 search operations, 8919 insert operations
+Norway = 20959, 50 search operations, 8919 insert operations
+Djibouti = 325, 30 search operations, 8919 insert operations
+Uruguay = <Not found>, 13 search operations, 8919 insert operations
+Uruguay = <Not found>, 13 search operations, 8919 insert operations
+Kenya = 134622, 40 search operations, 8919 insert operations
+Pakistan = 761168, 42 search operations, 8919 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Kazakhstan = 16821, 46 search operations, 9910 insert operations
+Romania = 17672, 30 search operations, 9910 insert operations
+Trinidad and Tobago = 1840, 32 search operations, 9910 insert operations
+Iran = 490461, 36 search operations, 9910 insert operations
+Nicaragua = 31693, 50 search operations, 9910 insert operations
+Guernsey = 65, 26 search operations, 9910 insert operations
+Ireland = 8881, 44 search operations, 9910 insert operations
+Germany = 300683, 36 search operations, 9910 insert operations
+Liechtenstein = 84, 58 search operations, 9910 insert operations
+Guernsey = 65, 26 search operations, 9910 insert operations
+Trinidad and Tobago = 1840, 32 search operations, 9910 insert operations
+Europe = 2338363, 24 search operations, 9910 insert operations
+Armenia = 7547, 30 search operations, 9910 insert operations
+High income = 4001294, 42 search operations, 9910 insert operations
+Malta = 1764, 38 search operations, 9910 insert operations
+South America = 2833576, 16 search operations, 9910 insert operations
+Scotland = 7981, 36 search operations, 9910 insert operations
+Madagascar = 5727, 42 search operations, 9910 insert operations
+Portugal = 77120, 40 search operations, 9910 insert operations
+Czechia = 27895, 26 search operations, 9910 insert operations
+Spain = 154946, 36 search operations, 9910 insert operations
+Portugal = 77120, 40 search operations, 9910 insert operations
+Madagascar = 5727, 42 search operations, 9910 insert operations
+Denmark = 8631, 40 search operations, 9910 insert operations
+Norway = 20959, 50 search operations, 9910 insert operations
+Djibouti = 325, 30 search operations, 9910 insert operations
+Uruguay = 13029, 28 search operations, 9910 insert operations
+Uruguay = 13029, 28 search operations, 9910 insert operations
+Kenya = 134622, 40 search operations, 9910 insert operations
+Pakistan = 761168, 42 search operations, 9910 insert operations

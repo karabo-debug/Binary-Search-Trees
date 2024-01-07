@@ -1,0 +1,9 @@
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Congo = <Not found>, 21 operations
+Malaysia = 211152, 38 operations
+Denmark = 33752, 32 operations
+Republic of Congo = <Not found>, 12 operations
+South Asia = <Not found>, 16 operations
+North America = 2328630, 54 operations

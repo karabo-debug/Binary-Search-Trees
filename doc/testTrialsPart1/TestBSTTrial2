@@ -1,0 +1,8 @@
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Namibia = 908, 58 operations
+Mali = 60615, 50 operations
+South Africa = 50049, 42 operations
+Kenya = 67992, 44 operations
+Zimbabwe = 12119, 20 operations

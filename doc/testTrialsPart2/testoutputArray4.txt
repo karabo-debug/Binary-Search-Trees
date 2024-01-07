@@ -1,0 +1,298 @@
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = <Not Found>, 991 search operations, 991 insert operations
+Switzerland = <Not Found>, 991 search operations, 991 insert operations
+Grenada = <Not Found>, 991 search operations, 991 insert operations
+Taiwan = 337612, 219 search operations, 991 insert operations
+Panama = <Not Found>, 991 search operations, 991 insert operations
+Israel = <Not Found>, 991 search operations, 991 insert operations
+Antigua and Barbuda = <Not Found>, 991 search operations, 991 insert operations
+Mongolia = <Not Found>, 991 search operations, 991 insert operations
+Kiribati = <Not Found>, 991 search operations, 991 insert operations
+Chad = <Not Found>, 991 search operations, 991 insert operations
+Australia = 238946, 369 search operations, 991 insert operations
+Jamaica = <Not Found>, 991 search operations, 991 insert operations
+High income = <Not Found>, 991 search operations, 991 insert operations
+Bangladesh = <Not Found>, 991 search operations, 991 insert operations
+Cambodia = <Not Found>, 991 search operations, 991 insert operations
+Mexico = <Not Found>, 991 search operations, 991 insert operations
+Sweden = <Not Found>, 991 search operations, 991 insert operations
+Curacao = <Not Found>, 991 search operations, 991 insert operations
+Belgium = 49443, 495 search operations, 991 insert operations
+Cambodia = <Not Found>, 991 search operations, 991 insert operations
+Cyprus = <Not Found>, 991 search operations, 991 insert operations
+Kenya = <Not Found>, 991 search operations, 991 insert operations
+Iceland = <Not Found>, 991 search operations, 991 insert operations
+Kosovo = <Not Found>, 991 search operations, 991 insert operations
+Zambia = <Not Found>, 991 search operations, 991 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 1982 insert operations
+Switzerland = <Not Found>, 1982 search operations, 1982 insert operations
+Grenada = <Not Found>, 1982 search operations, 1982 insert operations
+Taiwan = 337612, 219 search operations, 1982 insert operations
+Panama = <Not Found>, 1982 search operations, 1982 insert operations
+Israel = <Not Found>, 1982 search operations, 1982 insert operations
+Antigua and Barbuda = <Not Found>, 1982 search operations, 1982 insert operations
+Mongolia = <Not Found>, 1982 search operations, 1982 insert operations
+Kiribati = <Not Found>, 1982 search operations, 1982 insert operations
+Chad = <Not Found>, 1982 search operations, 1982 insert operations
+Australia = 238946, 369 search operations, 1982 insert operations
+Jamaica = <Not Found>, 1982 search operations, 1982 insert operations
+High income = <Not Found>, 1982 search operations, 1982 insert operations
+Bangladesh = 854891, 1462 search operations, 1982 insert operations
+Cambodia = <Not Found>, 1982 search operations, 1982 insert operations
+Mexico = <Not Found>, 1982 search operations, 1982 insert operations
+Sweden = <Not Found>, 1982 search operations, 1982 insert operations
+Curacao = <Not Found>, 1982 search operations, 1982 insert operations
+Belgium = 49443, 495 search operations, 1982 insert operations
+Cambodia = <Not Found>, 1982 search operations, 1982 insert operations
+Cyprus = <Not Found>, 1982 search operations, 1982 insert operations
+Kenya = <Not Found>, 1982 search operations, 1982 insert operations
+Iceland = <Not Found>, 1982 search operations, 1982 insert operations
+Kosovo = <Not Found>, 1982 search operations, 1982 insert operations
+Zambia = <Not Found>, 1982 search operations, 1982 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 2973 insert operations
+Switzerland = <Not Found>, 2973 search operations, 2973 insert operations
+Grenada = <Not Found>, 2973 search operations, 2973 insert operations
+Taiwan = 337612, 219 search operations, 2973 insert operations
+Panama = <Not Found>, 2973 search operations, 2973 insert operations
+Israel = <Not Found>, 2973 search operations, 2973 insert operations
+Antigua and Barbuda = <Not Found>, 2973 search operations, 2973 insert operations
+Mongolia = <Not Found>, 2973 search operations, 2973 insert operations
+Kiribati = <Not Found>, 2973 search operations, 2973 insert operations
+Chad = <Not Found>, 2973 search operations, 2973 insert operations
+Australia = 238946, 369 search operations, 2973 insert operations
+Jamaica = <Not Found>, 2973 search operations, 2973 insert operations
+High income = 4944355, 2607 search operations, 2973 insert operations
+Bangladesh = 854891, 1462 search operations, 2973 insert operations
+Cambodia = <Not Found>, 2973 search operations, 2973 insert operations
+Mexico = <Not Found>, 2973 search operations, 2973 insert operations
+Sweden = <Not Found>, 2973 search operations, 2973 insert operations
+Curacao = <Not Found>, 2973 search operations, 2973 insert operations
+Belgium = 49443, 495 search operations, 2973 insert operations
+Cambodia = <Not Found>, 2973 search operations, 2973 insert operations
+Cyprus = <Not Found>, 2973 search operations, 2973 insert operations
+Kenya = <Not Found>, 2973 search operations, 2973 insert operations
+Iceland = <Not Found>, 2973 search operations, 2973 insert operations
+Kosovo = <Not Found>, 2973 search operations, 2973 insert operations
+Zambia = <Not Found>, 2973 search operations, 2973 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 3964 insert operations
+Switzerland = <Not Found>, 3964 search operations, 3964 insert operations
+Grenada = 117, 3909 search operations, 3964 insert operations
+Taiwan = 337612, 219 search operations, 3964 insert operations
+Panama = 19956, 3679 search operations, 3964 insert operations
+Israel = <Not Found>, 3964 search operations, 3964 insert operations
+Antigua and Barbuda = <Not Found>, 3964 search operations, 3964 insert operations
+Mongolia = <Not Found>, 3964 search operations, 3964 insert operations
+Kiribati = <Not Found>, 3964 search operations, 3964 insert operations
+Chad = <Not Found>, 3964 search operations, 3964 insert operations
+Australia = 238946, 369 search operations, 3964 insert operations
+Jamaica = <Not Found>, 3964 search operations, 3964 insert operations
+High income = 4944355, 2607 search operations, 3964 insert operations
+Bangladesh = 854891, 1462 search operations, 3964 insert operations
+Cambodia = <Not Found>, 3964 search operations, 3964 insert operations
+Mexico = <Not Found>, 3964 search operations, 3964 insert operations
+Sweden = <Not Found>, 3964 search operations, 3964 insert operations
+Curacao = <Not Found>, 3964 search operations, 3964 insert operations
+Belgium = 49443, 495 search operations, 3964 insert operations
+Cambodia = <Not Found>, 3964 search operations, 3964 insert operations
+Cyprus = 3434, 3901 search operations, 3964 insert operations
+Kenya = <Not Found>, 3964 search operations, 3964 insert operations
+Iceland = <Not Found>, 3964 search operations, 3964 insert operations
+Kosovo = <Not Found>, 3964 search operations, 3964 insert operations
+Zambia = <Not Found>, 3964 search operations, 3964 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 4955 insert operations
+Switzerland = <Not Found>, 4955 search operations, 4955 insert operations
+Grenada = 117, 3909 search operations, 4955 insert operations
+Taiwan = 337612, 219 search operations, 4955 insert operations
+Panama = 19956, 3679 search operations, 4955 insert operations
+Israel = <Not Found>, 4955 search operations, 4955 insert operations
+Antigua and Barbuda = <Not Found>, 4955 search operations, 4955 insert operations
+Mongolia = <Not Found>, 4955 search operations, 4955 insert operations
+Kiribati = <Not Found>, 4955 search operations, 4955 insert operations
+Chad = <Not Found>, 4955 search operations, 4955 insert operations
+Australia = 238946, 369 search operations, 4955 insert operations
+Jamaica = <Not Found>, 4955 search operations, 4955 insert operations
+High income = 4944355, 2607 search operations, 4955 insert operations
+Bangladesh = 854891, 1462 search operations, 4955 insert operations
+Cambodia = 99300, 4365 search operations, 4955 insert operations
+Mexico = <Not Found>, 4955 search operations, 4955 insert operations
+Sweden = 71257, 4144 search operations, 4955 insert operations
+Curacao = <Not Found>, 4955 search operations, 4955 insert operations
+Belgium = 49443, 495 search operations, 4955 insert operations
+Cambodia = 99300, 4365 search operations, 4955 insert operations
+Cyprus = 3434, 3901 search operations, 4955 insert operations
+Kenya = <Not Found>, 4955 search operations, 4955 insert operations
+Iceland = <Not Found>, 4955 search operations, 4955 insert operations
+Kosovo = 4496, 4211 search operations, 4955 insert operations
+Zambia = <Not Found>, 4955 search operations, 4955 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 5946 insert operations
+Switzerland = <Not Found>, 5946 search operations, 5946 insert operations
+Grenada = 117, 3909 search operations, 5946 insert operations
+Taiwan = 337612, 219 search operations, 5946 insert operations
+Panama = 19956, 3679 search operations, 5946 insert operations
+Israel = <Not Found>, 5946 search operations, 5946 insert operations
+Antigua and Barbuda = <Not Found>, 5946 search operations, 5946 insert operations
+Mongolia = 2987, 5835 search operations, 5946 insert operations
+Kiribati = <Not Found>, 5946 search operations, 5946 insert operations
+Chad = <Not Found>, 5946 search operations, 5946 insert operations
+Australia = 238946, 369 search operations, 5946 insert operations
+Jamaica = <Not Found>, 5946 search operations, 5946 insert operations
+High income = 4944355, 2607 search operations, 5946 insert operations
+Bangladesh = 854891, 1462 search operations, 5946 insert operations
+Cambodia = 99300, 4365 search operations, 5946 insert operations
+Mexico = <Not Found>, 5946 search operations, 5946 insert operations
+Sweden = 71257, 4144 search operations, 5946 insert operations
+Curacao = <Not Found>, 5946 search operations, 5946 insert operations
+Belgium = 49443, 495 search operations, 5946 insert operations
+Cambodia = 99300, 4365 search operations, 5946 insert operations
+Cyprus = 3434, 3901 search operations, 5946 insert operations
+Kenya = <Not Found>, 5946 search operations, 5946 insert operations
+Iceland = <Not Found>, 5946 search operations, 5946 insert operations
+Kosovo = 4496, 4211 search operations, 5946 insert operations
+Zambia = 12751, 5923 search operations, 5946 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 6937 insert operations
+Switzerland = 32433, 6688 search operations, 6937 insert operations
+Grenada = 117, 3909 search operations, 6937 insert operations
+Taiwan = 337612, 219 search operations, 6937 insert operations
+Panama = 19956, 3679 search operations, 6937 insert operations
+Israel = <Not Found>, 6937 search operations, 6937 insert operations
+Antigua and Barbuda = 91, 6814 search operations, 6937 insert operations
+Mongolia = 2987, 5835 search operations, 6937 insert operations
+Kiribati = <Not Found>, 6937 search operations, 6937 insert operations
+Chad = 1229, 6031 search operations, 6937 insert operations
+Australia = 238946, 369 search operations, 6937 insert operations
+Jamaica = 2774, 6054 search operations, 6937 insert operations
+High income = 4944355, 2607 search operations, 6937 insert operations
+Bangladesh = 854891, 1462 search operations, 6937 insert operations
+Cambodia = 99300, 4365 search operations, 6937 insert operations
+Mexico = <Not Found>, 6937 search operations, 6937 insert operations
+Sweden = 71257, 4144 search operations, 6937 insert operations
+Curacao = 267, 6694 search operations, 6937 insert operations
+Belgium = 49443, 495 search operations, 6937 insert operations
+Cambodia = 99300, 4365 search operations, 6937 insert operations
+Cyprus = 3434, 3901 search operations, 6937 insert operations
+Kenya = 62640, 6155 search operations, 6937 insert operations
+Iceland = <Not Found>, 6937 search operations, 6937 insert operations
+Kosovo = 4496, 4211 search operations, 6937 insert operations
+Zambia = 12751, 5923 search operations, 6937 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 7928 insert operations
+Switzerland = 32433, 6688 search operations, 7928 insert operations
+Grenada = 117, 3909 search operations, 7928 insert operations
+Taiwan = 337612, 219 search operations, 7928 insert operations
+Panama = 19956, 3679 search operations, 7928 insert operations
+Israel = <Not Found>, 7928 search operations, 7928 insert operations
+Antigua and Barbuda = 91, 6814 search operations, 7928 insert operations
+Mongolia = 2987, 5835 search operations, 7928 insert operations
+Kiribati = 330, 7262 search operations, 7928 insert operations
+Chad = 1229, 6031 search operations, 7928 insert operations
+Australia = 238946, 369 search operations, 7928 insert operations
+Jamaica = 2774, 6054 search operations, 7928 insert operations
+High income = 4944355, 2607 search operations, 7928 insert operations
+Bangladesh = 854891, 1462 search operations, 7928 insert operations
+Cambodia = 99300, 4365 search operations, 7928 insert operations
+Mexico = <Not Found>, 7928 search operations, 7928 insert operations
+Sweden = 71257, 4144 search operations, 7928 insert operations
+Curacao = 267, 6694 search operations, 7928 insert operations
+Belgium = 49443, 495 search operations, 7928 insert operations
+Cambodia = 99300, 4365 search operations, 7928 insert operations
+Cyprus = 3434, 3901 search operations, 7928 insert operations
+Kenya = 62640, 6155 search operations, 7928 insert operations
+Iceland = 1793, 7329 search operations, 7928 insert operations
+Kosovo = 4496, 4211 search operations, 7928 insert operations
+Zambia = 12751, 5923 search operations, 7928 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 8919 insert operations
+Switzerland = 32433, 6688 search operations, 8919 insert operations
+Grenada = 117, 3909 search operations, 8919 insert operations
+Taiwan = 337612, 219 search operations, 8919 insert operations
+Panama = 19956, 3679 search operations, 8919 insert operations
+Israel = 11325, 8547 search operations, 8919 insert operations
+Antigua and Barbuda = 91, 6814 search operations, 8919 insert operations
+Mongolia = 2987, 5835 search operations, 8919 insert operations
+Kiribati = 330, 7262 search operations, 8919 insert operations
+Chad = 1229, 6031 search operations, 8919 insert operations
+Australia = 238946, 369 search operations, 8919 insert operations
+Jamaica = 2774, 6054 search operations, 8919 insert operations
+High income = 4944355, 2607 search operations, 8919 insert operations
+Bangladesh = 854891, 1462 search operations, 8919 insert operations
+Cambodia = 99300, 4365 search operations, 8919 insert operations
+Mexico = 995625, 8508 search operations, 8919 insert operations
+Sweden = 71257, 4144 search operations, 8919 insert operations
+Curacao = 267, 6694 search operations, 8919 insert operations
+Belgium = 49443, 495 search operations, 8919 insert operations
+Cambodia = 99300, 4365 search operations, 8919 insert operations
+Cyprus = 3434, 3901 search operations, 8919 insert operations
+Kenya = 62640, 6155 search operations, 8919 insert operations
+Iceland = 1793, 7329 search operations, 8919 insert operations
+Kosovo = 4496, 4211 search operations, 8919 insert operations
+Zambia = 12751, 5923 search operations, 8919 insert operations
+
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Comoros = 609, 1060 search operations, 9910 insert operations
+Switzerland = 32433, 6688 search operations, 9910 insert operations
+Grenada = 117, 3909 search operations, 9910 insert operations
+Taiwan = 337612, 219 search operations, 9910 insert operations
+Panama = 19956, 3679 search operations, 9910 insert operations
+Israel = 11325, 8547 search operations, 9910 insert operations
+Antigua and Barbuda = 91, 6814 search operations, 9910 insert operations
+Mongolia = 2987, 5835 search operations, 9910 insert operations
+Kiribati = 330, 7262 search operations, 9910 insert operations
+Chad = 1229, 6031 search operations, 9910 insert operations
+Australia = 238946, 369 search operations, 9910 insert operations
+Jamaica = 2774, 6054 search operations, 9910 insert operations
+High income = 4944355, 2607 search operations, 9910 insert operations
+Bangladesh = 854891, 1462 search operations, 9910 insert operations
+Cambodia = 99300, 4365 search operations, 9910 insert operations
+Mexico = 995625, 8508 search operations, 9910 insert operations
+Sweden = 71257, 4144 search operations, 9910 insert operations
+Curacao = 267, 6694 search operations, 9910 insert operations
+Belgium = 49443, 495 search operations, 9910 insert operations
+Cambodia = 99300, 4365 search operations, 9910 insert operations
+Cyprus = 3434, 3901 search operations, 9910 insert operations
+Kenya = 62640, 6155 search operations, 9910 insert operations
+Iceland = 1793, 7329 search operations, 9910 insert operations
+Kosovo = 4496, 4211 search operations, 9910 insert operations
+Zambia = 12751, 5923 search operations, 9910 insert operations
